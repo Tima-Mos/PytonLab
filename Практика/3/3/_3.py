@@ -1,0 +1,6 @@
+Name=input("Имя:")
+Age=input("Сколько лет:")
+Address=input("Адресс:")
+print("Имя:",Name)
+print("Возраст:",Age)
+print("Адрес:",Address)
